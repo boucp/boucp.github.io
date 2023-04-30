@@ -13,7 +13,7 @@ search:
 [![Translation Progress](https://img.shields.io/badge/translation_progress-85.2%25-yellowgreen.svg)](https://github.com/boucp/boucp.github.io/wiki/Translation-Progress)
 
 
-This site is mainly created for storing main topic about algorithm, data structure and related problems..
+This site is mainly created for storing and gathering the main topic about algorithm, data structure and related problems..
 
 ## How this site created
 Thanks to mkdocs and mkdocs-material open source python developers.
