@@ -71,7 +71,7 @@ plugins:
       nav_file: navigation.md
   - git-revision-date-localized:
       enable_creation_date: true
-      enabled: !ENV [MKDOCS_ENABLE_GIT_REVISION_DATE, False]
+      
   - git-authors
   - git-committers:
       repository: boucp/boucp.github.io
