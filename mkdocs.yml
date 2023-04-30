@@ -76,7 +76,5 @@ plugins:
   - git-committers:
       repository: boucp/boucp.github.io
       docs_path: src/
-      token: !ENV MKDOCS_GIT_COMMITTERS_APIKEY
-      enabled: !ENV [MKDOCS_ENABLE_GIT_COMMITTERS, False]
   - macros
 
