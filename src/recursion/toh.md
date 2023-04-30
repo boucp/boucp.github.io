@@ -29,7 +29,7 @@ Procedure move(disks,source,target,extrapole)
     if disks >1 then do
            # move n-1 disks to target from ectrapole.
            move(disks-1,extrapole,target,source) // tail recursion
-    END
+ END
 ```
 <center>
 ![হ্যানয়ের টাওয়ার](toh.jpeg)
