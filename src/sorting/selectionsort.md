@@ -2,7 +2,7 @@
 
 ## Implement
 === "Python"
-   ```
+   ```python3
    def selectionsort(arr,n):
       for i in range(n):
         min = i
