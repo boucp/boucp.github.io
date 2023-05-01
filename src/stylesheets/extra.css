@@ -34,10 +34,10 @@ body[dir=rtl] .metadata.page-metadata .contributors-text{
 }
 .page-metadata .contributors li img{
     border-radius:100%;
-    height:16px;
+    height:64px;
     margin-top:-3px;
     overflow:hidden;
-    width:16px
+    width:64px
 }
 
 
