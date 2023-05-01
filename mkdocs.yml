@@ -76,6 +76,7 @@ plugins:
       
   - git-committers:
       repository: boucp/boucp.github.io
+      docs_path: /src
   
   - macros
 
