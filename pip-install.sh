@@ -7,4 +7,6 @@ pip3 install \
     mkdocs-git-authors-plugin \
     mkdocs-git-revision-date-localized-plugin \
     mkdocs-simple-hooks \
-    mkdocs-git-committers-plugin-2
+    mkdocs-git-committers-plugin-2 \
+    lxml
+    
