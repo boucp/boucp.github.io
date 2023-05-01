@@ -36,6 +36,7 @@ theme:
     - toc.integrate
     - search.suggest
     - content.action.edit
+    - content.code.copy
 
 extra_javascript:
   - javascript/config.js
