@@ -14,3 +14,6 @@ search:
 - কমপ্লিট সার্চ
     - রিকার্সিভ কমপ্লিট সার্চ
         - [ব্যাকট্রাকিং](cs/bs.md)
+- Sorting
+    - Iterative
+        - [Selection Sort](sorting/selectionsort.md)
