@@ -75,7 +75,7 @@ plugins:
       enable_creation_date: true
       
   - git-committers:
-     repository: boucp/boucp.github.io
+      repository: boucp/boucp.github.io
       docs_path: src/
   
   - macros
