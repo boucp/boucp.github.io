@@ -35,6 +35,7 @@ theme:
     - navigation.tabs
     - toc.integrate
     - search.suggest
+    - content.action.edit
 
 extra_javascript:
   - javascript/config.js
