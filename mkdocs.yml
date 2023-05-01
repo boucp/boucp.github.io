@@ -74,7 +74,8 @@ plugins:
   - git-revision-date-localized:
       enable_creation_date: true
       
-  - git-authors
+  - git-committers:
+      repository: boucp/boucp.github.io
   
   - macros
 
