@@ -6,7 +6,7 @@
 {% endif %}
 {% include "partials/actions.html" %}
 {% if "\x3ch1" not in page.content %}
-  <h1>{{ page.title | d(config.site_name, true }}</h1>
+  <h1>{{ page.title | d(config.site_name, true)}}</h1>
 {% endif %}
 {{ page.content }}
 {% if page.meta and (
