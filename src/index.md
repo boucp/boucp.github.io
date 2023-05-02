@@ -39,7 +39,12 @@ then install mkdocs-material theme
 ```bash
 $ pip3 install mkdocs-material
 ```
-then add some mkdocs plugin.
+## Using Visual Studio 
+using vs code makes easy for writing code
+, see live preview and also all git options not write in command line.
+(example - git init, git add, git commit, git remote add, git pull, git push, git fetch etc).
+
+## Add some mkdocs plugin.
 ```bash
 $ pip3 install mkdocs-simple-hooks
 ```
