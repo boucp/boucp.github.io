@@ -127,5 +127,7 @@ Procedure move(disks,source,target,extrapole)
 - স্পেস কম্প্লেক্সিটি: O(n)
 
 ## কিছু সমস্যা ও সমাধান 
+- [10017 - The Never Ending Towers of Hanoi](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=958)
+    - [Solution](https://github.com/soyritu/UVa/blob/master/10017%20The%20Never%20Ending%20Towers%20of%20Hanoi%20-%20Online%20Judge.py)
 - [UVa 254 - Towers of Hanoi](https://onlinejudge.org/index.php?option=onlinejudge&Itemid=8&page=show_problem&problem=190)
 - [UVa 10276 - Hanoi Tower Troubles Again!](https://onlinejudge.org/index.php?option=onlinejudge&Itemid=8&page=show_problem&problem=1217)
