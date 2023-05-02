@@ -43,6 +43,24 @@ $ pip3 install mkdocs-material
 using vs code makes easy for writing code
 , see live preview and also all git options not write in command line.
 (example - git init, git add, git commit, git remote add, git pull, git push, git fetch etc).
+<center>
+![vs](7.jpg)
+</center>
+<center>
+![vs](6.jpg)
+</center>
+![vs](5.jpg)
+</center>
+<center>
+![vs](4.jpg)
+</center>
+![vs](3.jpg)
+</center>
+<center>
+![vs](2.jpg)
+</center>
+![vs](1.jpg)
+</center>
 
 ## Add some mkdocs plugin.
 ```bash
@@ -51,6 +69,7 @@ $ pip3 install mkdocs-simple-hooks
 To make Readme.md to index.md, push a python file in source directory.
 
 hook.py
+```python3
 ```python3
 import shutil
 
