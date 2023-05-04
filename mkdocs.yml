@@ -82,6 +82,6 @@ plugins:
 extra:
   analytics:
     provider: google
-    property: UA-264558027-1
+    property: UA-267195013-1
  
 
