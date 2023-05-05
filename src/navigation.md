@@ -22,3 +22,7 @@ search:
         - [Heap Sort](sorting/heapsort.md)
 - Bounce & Bound
     - [Fifteen Puzzle](bound/fifteenpuzzlesolve.md)
+- Graph Theory
+    - Graph Traversal
+        - [Breadth First Search](graph/bfs.md)
+        - [Depth First Search](graph/dfs.md)
