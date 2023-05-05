@@ -1,6 +1,6 @@
 site_name: BOU-CP
 docs_dir: src
-site_url: https://boucp.rbind.io
+site_url: https://boucp.github.io
 use_directory_urls: false
 repo_url: https://github.com/boucp/boucp.github.io
 edit_uri: edit/master/src/
@@ -82,6 +82,6 @@ plugins:
 extra:
   analytics:
     provider: google
-    property: UA-264558027-1
+    property: UA-267195013-1
  
 
