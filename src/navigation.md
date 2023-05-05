@@ -17,3 +17,8 @@ search:
 - Sorting
     - Iterative
         - [Selection Sort](sorting/selectionsort.md)
+        - [Merge Sort](sorting/mergesort.md)
+        - [Quick Sort](sorting/quicksort.md)
+        - [Heap Sort](sorting/heapsort.md)
+- Bounce & Bound
+    - [Fifteen Puzzle](bound/fifteenpuzzlesolve.md)
