@@ -1,3 +1,9 @@
+---
+tags:
+  - সর্টিং
+  - ক্রম
+  
+---
 # Selection Sort
 ## Pre-requisite topic:
 
