@@ -9,7 +9,7 @@ search:
     - [ট্যাগ ইনডেক্স](tags.md)
     - [প্রিভিউ](preview.md)
 - আইসিপিসি
-    - [প্রস্তুতি](icpc/preparation.md)
+    - [আইসিপিসি প্রস্তুতি](icpc/preparation.md)
 - রিকার্সন
     - মৌলিক
         - [হ্যানয়ের টাওয়ার](recursion/toh.md)
