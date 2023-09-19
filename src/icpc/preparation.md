@@ -7,60 +7,61 @@
 # সাধারন টেম্পেট কোড 
 
 === "C"
-   ```c
-   #include <stdio.h>
-   void solve(){
+    ```c
+    #include <stdio.h>
+    void solve(){
        
-
-   }
-   int main(){
-       #ifndef ONLINE_JUDGE
-       freopen("input.txt","r",stdin);
-       freopen("output.txt","w",stdout);
-       #endif
-
-       int t=1;
-       scanf("%d",&t);
-       for(int i=1;i<=t;i++)  
-           solve();
-   }
-   ```
+    
+    }
+    int main(){
+        #ifndef ONLINE_JUDGE
+        freopen("input.txt","r",stdin);
+        freopen("output.txt","w",stdout);
+        #endif
+         
+        int t=1;
+        scanf("%d",&t);
+        for(int i=1;i<=t;i++)  
+            solve();
+    }
+    
+    ```
 === "C++"
-   ```cpp
-   #include <bits/stdc++.h>
-   using namespace std;
-   void solve(){
+    ```cpp
+    #include <bits/stdc++.h>
+    using namespace std;
+    void solve(){
     
 
-   }
-   int main(){
-       ios::sync_with_stdio(false);
-       cin.tie(nullptr);
-       #ifndef ONLINE_JUDGE
-       freopen("input.txt","r",stdin);
-       freopen("output.txt","w",stdout);
-       #endif
+    }
+    int main(){
+        ios::sync_with_stdio(false);
+        cin.tie(nullptr);
+        #ifndef ONLINE_JUDGE
+        freopen("input.txt","r",stdin);
+        freopen("output.txt","w",stdout);
+        #endif
 
-       int t=1;
-       cin>>t;
-       for(int i=1;i<=t;i++)  
-           solve();
-   }
-   ```
+        int t=1;
+        cin>>t;
+        for(int i=1;i<=t;i++)  
+            solve();
+    }
+    ```
 === "Python"
-   ```py
-   import sys
-   input = sys.stdin.readline
-   print = lambda i: sys.stdout.write(str(i)+'\n')
+    ```py
+    import sys
+    input = sys.stdin.readline
+    print = lambda i: sys.stdout.write(str(i)+'\n')
  
-   def solve():
-       print()
-   sys.stdin = open("input.txt","r")
-   sys.stdout = open("output.txt","w")
-   t = int(input())
-   for _ in range(1,t+1):
-       solve()
-   ```
+    def solve():
+        print()
+    sys.stdin = open("input.txt","r")
+    sys.stdout = open("output.txt","w")
+    t = int(input())
+    for _ in range(1,t+1):
+        solve()
+    ```
 
 
 
@@ -82,20 +83,20 @@
 - বিটমাক্স দিয়ে যদি অপেরেশন করা যাই, বিটমাক্স ব্যবহার করাই বেটার।
 - সবথেকে বড় জটিলতা আসে ইনপুট আউটপুটের পরিমান যদি অনেক বেড়ে যাই। সেজন্য অবশ্যই প্রতিটি কোডে ফাস্টার আই/ও ব্যবহার করতে হবে।
 === "C++"
-   ```cpp
-   #include <bits/stdc++.h>
-   using namespace std;
-   int main(){
-       ios::sync_with_stdio(false);
-       cin.tie(nullptr);
-   }
-   ```
+    ```cpp
+    #include <bits/stdc++.h>
+    using namespace std;
+    int main(){
+        ios::sync_with_stdio(false);
+        cin.tie(nullptr);
+    }
+    ```
 === "Python" 
-   ```py
-   import sys
-   input = sys.stdin.readline
-   print = lambda i: sys.stdout.write(str(i)+'\n')
-   ```
+    ```py
+    import sys
+    input = sys.stdin.readline
+    print = lambda i: sys.stdout.write(str(i)+'\n')
+    ```
 
 
 
