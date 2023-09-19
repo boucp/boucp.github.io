@@ -26,7 +26,7 @@
    }
    ```
 === "C++"
-   ```
+   ```cpp
    #include <bits/stdc++.h>
    using namespace std;
    void solve(){
@@ -48,7 +48,7 @@
    }
    ```
 === "Python"
-   ```
+   ```py
    import sys
    input = sys.stdin.readline
    print = lambda i: sys.stdout.write(str(i)+'\n')
