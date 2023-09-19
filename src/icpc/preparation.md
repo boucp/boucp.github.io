@@ -1,6 +1,78 @@
+<center>
+![icpc](icpc.png)
+</center>
+
+
+
 # সাধারন টেম্পেট কোড 
 
+=== "C"
+   ```c
+   #include <stdio.h>
+   void solve(){
+       
 
+   }
+   int main(){
+       #ifndef ONLINE_JUDGE
+       freopen("input.txt","r",stdin);
+       freopen("output.txt","w",stdout);
+       #endif
+
+       int t=1;
+       scanf("%d",&t);
+       for(int i=1;i<=t;i++)  
+           solve();
+   }
+   ```
+=== "C++"
+   ```
+   #include <bits/stdc++.h>
+   using namespace std;
+   void solve(){
+    
+
+   }
+   int main(){
+       ios::sync_with_stdio(false);
+       cin.tie(nullptr);
+       #ifndef ONLINE_JUDGE
+       freopen("input.txt","r",stdin);
+       freopen("output.txt","w",stdout);
+       #endif
+
+       int t=1;
+       cin>>t;
+       for(int i=1;i<=t;i++)  
+           solve();
+   }
+   ```
+=== "Python"
+   ```
+   import sys
+   input = sys.stdin.readline
+   print = lambda i: sys.stdout.write(str(i)+'\n')
+ 
+   def solve():
+       print()
+   sys.stdin = open("input.txt","r")
+   sys.stdout = open("output.txt","w")
+   t = int(input())
+   for _ in range(1,t+1):
+       solve()
+   ```
+
+
+
+<center>
+![c template](ctemp.JPG)
+</center>
+<center>
+![c++ template](cpptemp.JPG)
+</center>
+<center>
+![python template](pytemp.JPG)
+</center>
 
 # কোড লিখায় করনীয়
 - প্রবলেমের আউটপুটের শেষে প্রায় সময়  আমরা নিউ লাইন এড করতে ভুলে যাই। যেজন্য এই সামান্য জিনিসটাই অনেক বড় বিপদের কারন হয়ে দাঁড়ায়।তাই প্রিন্ট করার সময়  খেয়াল রাখতে হবে "\n" এর উপর।
@@ -9,18 +81,21 @@
 - রিকার্সিভ এপ্রোচের বদলে ইটারেটিভ এপ্রোচ ফলো করা।
 - বিটমাক্স দিয়ে যদি অপেরেশন করা যাই, বিটমাক্স ব্যবহার করাই বেটার।
 - সবথেকে বড় জটিলতা আসে ইনপুট আউটপুটের পরিমান যদি অনেক বেড়ে যাই। সেজন্য অবশ্যই প্রতিটি কোডে ফাস্টার আই/ও ব্যবহার করতে হবে।
-=== "C++" ```cpp
-#include <bits/stdc++.h>
-using namespace std;
-int main(){
-    ios::sync_with_stdio(false);
-    cin.tie(nullptr);
-}
-```
-=== "Python" ```py
-import sys
-input = sys.stdin()
-```
+=== "C++"
+   ```cpp
+   #include <bits/stdc++.h>
+   using namespace std;
+   int main(){
+       ios::sync_with_stdio(false);
+       cin.tie(nullptr);
+   }
+   ```
+=== "Python" 
+   ```py
+   import sys
+   input = sys.stdin.readline
+   print = lambda i: sys.stdout.write(str(i)+'\n')
+   ```
 
 
 
