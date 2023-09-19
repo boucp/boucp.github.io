@@ -72,13 +72,13 @@
 
 
 <center>
-![c template](ctemp.JPG)
+![c template](ctemp.jpg)
 </center>
 <center>
-![c++ template](cpptemp.JPG)
+![c++ template](cpptemp.jpg)
 </center>
 <center>
-![python template](pytemp.JPG)
+![python template](pytemp.jpg)
 </center>
 
 # কোড লিখায় করনীয়
