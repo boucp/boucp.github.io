@@ -1,8 +1,8 @@
 # Previous ICPC Dhaka Regional Solutions  
 # 2022
 # D. Omicron Juice
-=="C++"
-  ```cpp
+== "C++"
+   ```cpp
    #include <iostream>
    using namespace std;
 
@@ -36,4 +36,4 @@
 	     	cout<<"\n";
 	    }
      }
-    ```
+```
