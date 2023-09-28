@@ -1,5 +1,5 @@
 # Previous ICPC Dhaka Regional Solutions  
-# 2022
+## 2022 Preli
 # D. Omicron Juice
 === "C++"
     ```cpp
