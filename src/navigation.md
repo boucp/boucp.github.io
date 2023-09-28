@@ -10,7 +10,7 @@ search:
     - [প্রিভিউ](preview.md)
 - আইসিপিসি
     - [আইসিপিসি প্রস্তুতি](icpc/preparation.md)
-    - [বিগত সমাধান](icpc/solution.md) 
+    - [সমাধান](icpc/solution.md) 
 - রিকার্সন
     - মৌলিক
         - [হ্যানয়ের টাওয়ার](recursion/toh.md)
