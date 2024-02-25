@@ -38,7 +38,7 @@
 			   mx = max(mx,sum);
 		   }
 	   }
-	   cout<<mx<<endl;
+	   cout<<mx<<"\n";
     }
     ```
 
