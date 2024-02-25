@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-- হোম
+- মূলপেজ
     - [মূল পেজ](index.md)
     - [নেভিগেশন](navigation.md)
     
