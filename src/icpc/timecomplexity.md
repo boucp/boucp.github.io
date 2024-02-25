@@ -22,7 +22,7 @@
     using namespace std;
     int main()
     {
-	        int arr[] = {-1,2,4,-3,5,2,-5,2};
+	        int arr[] ={-1,2,4,-3,5,2,-5,2};
 	        int n = sizeof(arr)/sizeof(arr[0]);
 	        int mx = 0;
 	        for(int i=0;i<n;i++)
@@ -40,7 +40,9 @@
 	        cout<<mx<<endl;
       }
 
-      ```
+    
+    ```
+    
 চল দেখি এটা কতগুলো মান বের করে
 
 - -১ = -১
