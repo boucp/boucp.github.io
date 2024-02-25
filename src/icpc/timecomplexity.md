@@ -63,20 +63,20 @@
     using namespace std;
     int main()
     {
-        int arr[] =    {-1,2,4,-3,5,2,-5,2};
-	int n = sizeof(arr)/sizeof(arr[0]);
-	int mx = 0;
-	for(int i=0;i<n;i++)
-	{
+         int arr[] =    {-1,2,4,-3,5,2,-5,2};
+	 int n = sizeof(arr)/sizeof(arr[0]);
+	 int mx = 0;
+	 for(int i=0;i<n;i++)
+	 {
 		int sum=0;
-			for(int k=i;k<n;k++)
+		for(int k=i;k<n;k++)
 			{
 				sum += arr[k];
 				mx  =  max(mx,sum);
 			}		
-	}
-	cout<<mx<<endl;
-     }
+	 }
+	 cout<<mx<<endl;
+      }
     ```
 
 - -১ = -১
@@ -113,3 +113,4 @@
     }
     ```
  
+যদিও মনে হচ্ছিল এটা আমার বানানো। স্বপ্ন ছিল এটা। ঘুম ভাঙ্গার পর দেখ এই অ্যালগরিদমটা Kadane’s algorithm নামে পড়িচিত। কাদেন সাহেব আমি কেন্দে দিছি, কেন অ্যালগরিদমটা আমার নামে হলো না। যাই হোক আজকের মতো এখানেই বিদায়। যদি চাও এই প্রবলেমটা কোডফোর্সেস এ গিয়ে সলভ করে আসতে পারো। 
