@@ -6,8 +6,7 @@ search:
 - হোম
     - [মূল পেজ](index.md)
     - [নেভিগেশন](navigation.md)
-    - [ট্যাগ ইনডেক্স](tags.md)
-    - [প্রিভিউ](preview.md)
+    
 - আইসিপিসি
     - [আইসিপিসি প্রস্তুতি](icpc/preparation.md)
     - [সমাধান](icpc/solution.md)
@@ -15,18 +14,3 @@ search:
 - রিকার্সন
     - মৌলিক
         - [হ্যানয়ের টাওয়ার](recursion/toh.md)
-- কমপ্লিট সার্চ
-    - রিকার্সিভ কমপ্লিট সার্চ
-        - [ব্যাকট্রাকিং](cs/bs.md)
-- Sorting
-    - Iterative
-        - [Selection Sort](sorting/selectionsort.md)
-        - [Merge Sort](sorting/mergesort.md)
-        - [Quick Sort](sorting/quicksort.md)
-        - [Heap Sort](sorting/heapsort.md)
-- Bounce & Bound
-    - [Fifteen Puzzle](bound/fifteenpuzzlesolve.md)
-- Graph Theory
-    - Graph Traversal
-        - [Breadth First Search](graph/bfs.md)
-        - [Depth First Search](graph/dfs.md)
