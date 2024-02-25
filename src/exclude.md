@@ -1,16 +1,4 @@
----
-title: Main Page
-search:
-  exclude: true
----
 
-# BOU-CP WEBSITE
-
-[![Contributors](https://img.shields.io/github/contributors/boucp/boucp.github.io.svg)](https://github.com/boucp/boucp.github.io/graphs/contributors)
-[![Pull Requests](https://img.shields.io/github/issues-pr/cp-algorithms/cp-algorithms.svg)](https://github.com/boucp/boucp.github.io/pulls)
-[![Closed Pull Requests](https://img.shields.io/github/issues-pr-closed/boucp/boucp.github.io.svg)](https://github.com/boucp/boucp.github.io/pulls?q=is%3Apr+is%3Aclosed)
-[![Build](https://github.com/boucp/boucp.github.io/workflows/build/badge.svg)](https://github.com/boucp/boucp.github.io/actions/workflows/build.yml)
-[![Translation Progress](https://img.shields.io/badge/translation_progress-85.2%25-yellowgreen.svg)](https://github.com/boucp/boucp.github.io/wiki/Translation-Progress)
 
 
 This site is mainly created for storing and gathering the main topic about algorithm, data structure and related problems..
