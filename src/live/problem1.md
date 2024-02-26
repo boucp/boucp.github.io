@@ -13,5 +13,5 @@
 
 
 <center>
-![icpc](idpc.png)
+![sample](idpc3.png)
 </center>
